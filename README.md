@@ -5,18 +5,21 @@
 	<img src="https://readme-typing-svg.herokuapp.com?duration=1C56C1&color=0F3D91&center=true&vCenter=true&lines=developer+fullstack">
 	<img src="./img/HI.gif" align="centre" width="500">
 </p>
-<h3 align="center">I love Python and enjoy solving technical problems through coding.</h3>
+<h3 align="center">I love with code, algorithms and enjoy solving technical problems through coding.</h3>
 <h3 align="center">I'm web developper</h3>
 
+
+
 <!-- Technos -->
-<h1 align="center">Languages and Tools 🛠</h1>
+<p align="center"><img src="./img/Working from anywhere.gif" width="300"> </p>
+<h1 align="center">Languages and Tools 🛠</h1> 
 <h3 align="center">Basics</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-</p>
+C
 <h3 align="center">Front</h3>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -52,10 +55,11 @@
 </p>
 <p align="center">
 	<img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
-</p>
+</p><br>
 
 <!-- Social network -->
+<h1 align="left"> Social network  </h1>
 
-[![Twitter: N_Chettir](https://img.shields.io/twitter/follow/N_Chettir?style=social)](https://x.com/N_chettir)
-[![Linkedin: nadir-chettir](https://img.shields.io/badge/-Nadir%20CHETTIR-blue?style=flat-square&logo=Linkedin&logoColor=whitelink=https://www.linkedin.com/in/nadir-chettir/)](https://www.linkedin.com/in/nadir-chettir)
+[![Twitter: N_Chettir](https://img.shields.io/twitter/follow/N_Chettir?style=social)](https://x.com/N_chettir) <br>
+[![Linkedin: nadir-chettir](https://img.shields.io/badge/-Nadir%20CHETTIR-blue?style=flat-square&logo=Linkedin&logoColor=whitelink=https://www.linkedin.com/in/nadir-chettir/)](https://www.linkedin.com/in/nadir-chettir)<br>
 [![Whatsapp](https://img.shields.io/badge/WHATSAPP-25D366)](https://wa.me/+33625217497)
