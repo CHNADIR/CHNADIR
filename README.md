@@ -2,8 +2,8 @@
 
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?duration=1C56C1&color=0F3D91&center=true&vCenter=true&lines=developer+fullstack">
-	<img src="./img/HI.gif" align="centre" width="500">
+	<img src="https://readme-typing-svg.herokuapp.com?duration=1C56C1&color=0F3D91&center=true&vCenter=true&lines=developer+fullstack" align="left">
+	<img src="./img/HI.gif" align="right" width="500">
 </p>
 <h3 align="center">I love with code, algorithms and enjoy solving technical problems through coding.</h3>
 <h3 align="center">I'm web developper</h3>
