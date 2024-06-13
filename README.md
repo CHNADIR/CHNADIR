@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm CHETTIR Nadir  </h1>
-
+<img src="./img/HI.gif" width="500">
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=1C56C1&color=0F3D91&center=true&vCenter=true&lines=developer+fullstack">
