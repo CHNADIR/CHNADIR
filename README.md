@@ -1,12 +1,12 @@
 <h1 align="center"> Hi 👋, I'm CHETTIR Nadir  </h1>
-<img src="./img/HI.gif" width="500">
+
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=1C56C1&color=0F3D91&center=true&vCenter=true&lines=developer+fullstack">
-    <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
-    <h3 align="center">I love Python and enjoy solving technical problems through coding.</h3>
-    <h3 align="center">I'm web developper</h3>
+	<img src="https://readme-typing-svg.herokuapp.com?duration=1C56C1&color=0F3D91&center=true&vCenter=true&lines=developer+fullstack">
+	<img src="./img/HI.gif" align="centre" width="500">
 </p>
+<h3 align="center">I love Python and enjoy solving technical problems through coding.</h3>
+<h3 align="center">I'm web developper</h3>
 
 <!-- Technos -->
 <h1 align="center">Languages and Tools 🛠</h1>
@@ -50,13 +50,12 @@
 <p align="center">
 	<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
 </p>
-
-
 <p align="center">
-  <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWwxb3lpcWhxaWdyYjkxNW1zdWxyMnBraG05bmp0MnR3cHV0NWN0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif">
+	<img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
 </p>
 
 <!-- Social network -->
+
 [![Twitter: N_Chettir](https://img.shields.io/twitter/follow/N_Chettir?style=social)](https://x.com/N_chettir)
 [![Linkedin: nadir-chettir](https://img.shields.io/badge/-Nadir%20CHETTIR-blue?style=flat-square&logo=Linkedin&logoColor=whitelink=https://www.linkedin.com/in/nadir-chettir/)](https://www.linkedin.com/in/nadir-chettir)
 [![Whatsapp](https://img.shields.io/badge/WHATSAPP-25D366)](https://wa.me/+33625217497)
