@@ -7,7 +7,7 @@
 	
 </p>
 <p style="margin: 15px;" align="center">	
-	<img src="https://readme-typing-svg.herokuapp.com?duration=1C56C1&color=0F3D91&center=true&vCenter=true&lines=developer+fullstack">
+	<img src="https://readme-typing-svg.herokuapp.com?duration=1C56C1&color=0F3D91&center=true&vCenter=true&lines=I'm+a+fullstack+developer">
 	<h3 align="center">I love Maths, algorithms and enjoy solving technical problems through coding.</h3>
 	<h3 align="center">I'm web developper</h3>
 </p>
